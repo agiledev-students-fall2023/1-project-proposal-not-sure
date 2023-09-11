@@ -2,7 +2,7 @@
 
 ### What and why?
 
-This zine editor + database allows users to make and share zines -- small magazines that can be printed on A4 paper. Zines are great for easily and cheaply passing information or showcasing art. Using an online database to make and store zines can further simplify the zine-making and zine-distributing process.
+This zine editor + database allows users to make and share zines -- small self-published magazines often printed on A4 paper. Zines are great for easily and cheaply passing information or showcasing art. Using an online database to make and store zines can further simplify the zine-making and zine-distributing process.
 
 ### For whom?
 
